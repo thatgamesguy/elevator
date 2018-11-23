@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>11726</string>
+                <key>className</key>
+                <string>PTModelComponentDeletionThreshold</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Object Deletion Threshold</string>
+                </dict>
+                <key>Back Deletion Threshold</key>
+                <dict>
+                    <key>value</key>
+                    <string>500.000000</string>
+                </dict>
+                <key>Sides Deletion Threshold</key>
+                <dict>
+                    <key>value</key>
+                    <string>2600.000000</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>11727</string>
+                <key>className</key>
+                <string>PTModelComponentDeletionThreshold</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Object Deletion Threshold</string>
+                </dict>
+                <key>Back Deletion Threshold</key>
+                <dict>
+                    <key>value</key>
+                    <string>500.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+                <key>Sides Deletion Threshold</key>
+                <dict>
+                    <key>value</key>
+                    <string>2600.000000</string>
+                    <key>animations</key>
+                    <array/>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>11728</string>
+                <key>className</key>
+                <string>PTModelComponentDeletionThreshold</string>
+                <key>Name</key>
+                <dict>
+                    <key>visible</key>
+                    <string>0</string>
+                    <key>value</key>
+                    <string>Object Deletion Threshold</string>
+                </dict>
+                <key>Back Deletion Threshold</key>
+                <dict>
+                    <key>value</key>
+                    <string>500.000000</string>
+                </dict>
+                <key>Sides Deletion Threshold</key>
+                <dict>
+                    <key>value</key>
+                    <string>2600.000000</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
